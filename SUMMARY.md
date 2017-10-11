@@ -6,4 +6,5 @@
     * [Sql注入漏洞](webying-yong-lou-dong-lie-biao/zhu-ru-lei-lou-dong/sqlzhu-ru-lou-dong.md)
     * [XML注入漏洞](webying-yong-lou-dong-lie-biao/zhu-ru-lei-lou-dong/xmlzhu-ru-lou-dong.md)
     * [XPATH注入漏洞](webying-yong-lou-dong-lie-biao/zhu-ru-lei-lou-dong/xpathzhu-ru-lou-dong.md)
+    * [JSON漏洞](webying-yong-lou-dong-lie-biao/zhu-ru-lei-lou-dong/jsonlou-dong.md)
 
